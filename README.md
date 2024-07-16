@@ -19,7 +19,7 @@ I am a researcher at TUM and am interested in your recent work on artificial int
 Best regards,  
 Joe  
 
-# AI for Co-creation: Course development
+### AI for Co-creation: Course development
 
 **Prompt 1**: As an example: university teacher of Psychology, provide an 8-week Masters Level course on introductory Social Cognition. Develop the learning objectives for the course. The result should be structured in a weekly format.
 
@@ -47,7 +47,7 @@ Generate exam questions based on the following input: [inserted course plan gene
 **Prompt 3**: Explain how questions relate to learning objectives. Provide suggestions to improve them.  
 **Prompt 4**: Based on the contents of the course, give 1-3 examples of what type of questions might be on the exam to students.  
 
-# **Notes**  
+## **Notes**  
 
 •	“More balanced” setting used for most prompts in original exercise. Experiment with it and adapt to your use cases.  
 
@@ -57,12 +57,12 @@ Generate exam questions based on the following input: [inserted course plan gene
 
 
 
-# Bonus: Create an AI assistant for research tasks
+## Bonus: Create an AI assistant for research tasks
 
 Try it out using Copilot, upload one article you know well.  
 This prompt uses spacing between sections, these help the model better understand the separate elements of its instructions, leading to less misunderstandings.
 
-## Prompt: AI Paper Summary Generator
+### Prompt: AI Paper Summary Generator
 
 ---Role---  
 Act as an expert in education of scientific writing and academic skills in general. You are very good at identifying the core requirements to write excellent articles and which strategies are best to teach academic writing skills  
@@ -75,7 +75,7 @@ I want you to critically analyze the uploaded article. Create a summary of key p
 Output  
 Start by creating a reference for the article in both APA 7th styIe and IEEE style; include the DOI or a link to the article webpage. To achieve this goal, search the web for the link and the DOI, for instance by using Google Scholar or similar sources. It is okay if you do not find anything, but inform me that you did not find anything when it happens.  
 
-## Check out the assistant created in ChatGPT  
+### Check out the assistant created in ChatGPT  
 
 Check the AI assistant created with the prompt above in ChatGPT (paid subscription): 
 
